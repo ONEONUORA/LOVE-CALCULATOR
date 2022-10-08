@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: url(/IMAGES/LOVE\ BACKGROUND.jpg);
+}
+    
+
+
+.container{
+    background:url("/IMAGES/tyler-nix-sitjgGsVIAs-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    width: 60%;
+    height: 80vh;
+    padding-top: 5rem;
+    box-shadow: 0.5rem 0.5rem 1rem rgba(0,0,0,0.3);
+    border-radius: 3rem;
+}
+.footer{
+    text-align: center;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+/* h2{
+    color: red;
+    margin-top: 5REM;
+} */
+button{
+    color: red;
+    margin-top: 5rem;
+    border-radius: 2rem;
+}
+p{
+    margin-top: 5rem;
+}
+.container h2{
+color: red;
+}
+.he h4{
+    margin-left: 4rem;
+}
+input{
+    border-radius: 2rem;
+    padding-right: 3rem;
+    text-align: center;
+   
+}
